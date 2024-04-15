@@ -1,12 +1,12 @@
-### CineIndep
+### modelo.CineIndep
 Crea un sistema que permita gestionar las salas y los clientes de un cine
 
-En CineIndep se necesita un sistema que permita gestionar las salas y clientes de un día. Se considera lo siguiente:
+En modelo.CineIndep se necesita un sistema que permita gestionar las salas y clientes de un día. Se considera lo siguiente:
 
 Un cliente puede tener muchas entradas para múltiples salas de cine. Cada cliente se caracteriza por tener nombre, rut y correo electrónico.
 Una entrada puede tener una entrada VIP, normal o de IMAX, la cual se asocia a una sala de cine.
 Una sala de cine tiene una cantidad de asientos, la cual debe indicar su disponibilidad.
-Cada entrada tiene una sala registrada. A cada entrada se le puede aplicar una promoción, la cual tiene porcentaje de descuento y fecha de vencimiento para compras en CineIndep.
+Cada entrada tiene una sala registrada. A cada entrada se le puede aplicar una promoción, la cual tiene porcentaje de descuento y fecha de vencimiento para compras en modelo.CineIndep.
 Cree una interfaz gráfica que permita lo siguiente:
 
 Agregar cliente.
